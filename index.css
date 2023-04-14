@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Karla:wght@400;500;700;800&family=Nunito+Sans:wght@300;400&family=Open+Sans:wght@400;500;600;700;800&family=Poppins&family=Roboto:wght@300;500;700&display=swap');
+
+:root{
+  --green: #0dd354;
+  --pale-green: #60e290;
+  --dark: #35365d;
+  --black: #010101;
+  --white: #feffff;
+  --blue-green: #28a6a5;
+  --peacock: #e4fcfc;
+  --nightsky: #000148;
+  --island: #1edba3;
+  --island-dark: #12ae7e;
+  --jewel: #cb90ff;
+  --mist: #f5f5f5;
+  --ash: #aeafaf;
+}
